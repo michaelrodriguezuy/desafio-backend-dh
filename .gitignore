@@ -8,8 +8,6 @@
 .DS_Store
 
 #frontend
-frontend/node_modules/
-frontend/build/
 
 #backend
 *.class
